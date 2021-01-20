@@ -1,5 +1,4 @@
 # hello-world
 Just a test Intro to GitHub Repo
-My name is Big Chief, I am the Monija and Sr Pastor at Vineyard Ministries
-I am error 404
+My name is Seyi Martins,I work as SIEM Security Engineer with a global tech company.
 
